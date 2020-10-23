@@ -1,0 +1,11 @@
+body {
+    background-image: url("dark_wood.png");
+}
+
+.form-group, h2, fieldset legend {
+    color: pink;
+}
+
+.col-sm-9 input {
+    background-color: lightblue;
+}
