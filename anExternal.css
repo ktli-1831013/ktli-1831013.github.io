@@ -1,0 +1,8 @@
+#master img {
+    border-radius: 30%;
+    width: 100px;
+}
+
+#master p {
+    float: right;
+}
